@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "23227d59b309f7a612fdd719be923434"
+    "revision": "a5364787a7f3b72237a8e4f9ecfd9369"
   },
   {
     "url": "about.html",
-    "revision": "df4a91dd9931a93f82322a080d54b261"
+    "revision": "301dbe5bdcbe53047792f1550b3fbcbd"
   },
   {
     "url": "access.html",
-    "revision": "07a5128b6e96cccaa4b0616ddec81ad4"
+    "revision": "8fc7425cf9f88017cfe1ee00e8928ab5"
   },
   {
     "url": "assets/css/0.styles.43a58f46.css",
@@ -182,52 +182,56 @@ self.__precacheManifest = [
     "revision": "7fbfbc830f88add6ebed01d32d388ecf"
   },
   {
-    "url": "assets/js/11.81ff935d.js",
-    "revision": "e494eecc9fb2a6aaadbf72495fda0481"
+    "url": "assets/js/11.64e4d285.js",
+    "revision": "4223306b9e52b301490e8828c99abe6a"
   },
   {
-    "url": "assets/js/12.a4879012.js",
-    "revision": "8acb9264d23e456cc97a9d4a295fed09"
+    "url": "assets/js/12.5a3d2d90.js",
+    "revision": "ee7898e35f4ee06207ba9c6d8de13bf2"
   },
   {
-    "url": "assets/js/13.759ae9d7.js",
-    "revision": "8af775c89c8a60e834cc8afc8d0a7363"
+    "url": "assets/js/13.c5ade028.js",
+    "revision": "f4dd88eea8d2118a6143c5b644d5d0b2"
   },
   {
-    "url": "assets/js/2.5d905cc1.js",
-    "revision": "5566b38b2e36b04b27ea4e221f3ff2d1"
+    "url": "assets/js/14.93239359.js",
+    "revision": "a143d8643c2bc16f177b82f6b7a7eeea"
   },
   {
-    "url": "assets/js/3.3aa62346.js",
-    "revision": "534f495fff9ff90f845e2dd9ce7b5ee7"
+    "url": "assets/js/2.9aa958e6.js",
+    "revision": "1831a8542730173276ccf90ad60985a8"
   },
   {
-    "url": "assets/js/4.c312e209.js",
-    "revision": "c2bc5e7fa51551eb49757f31b5f4169e"
+    "url": "assets/js/3.3297fc0d.js",
+    "revision": "ce5b3cdface5c48104023b20cf4bdd48"
+  },
+  {
+    "url": "assets/js/4.ecf403a0.js",
+    "revision": "985aea2aab15ae77acea3d16e7b59b7f"
   },
   {
     "url": "assets/js/5.03d391e3.js",
     "revision": "82404984af8e61dca6230fbe6e78cd21"
   },
   {
-    "url": "assets/js/6.3b90118f.js",
-    "revision": "e75c985aefd37d4e03cc16b99b48b8d0"
+    "url": "assets/js/6.2293ac5a.js",
+    "revision": "77e580ceeea45c1ed9aab8023346e0f1"
   },
   {
-    "url": "assets/js/7.f01a9801.js",
-    "revision": "f86ac6dd5b77bbf6021c45ba24dee0ee"
+    "url": "assets/js/7.91e7de95.js",
+    "revision": "e0cd6c167092eb9a5729a0529f147d36"
   },
   {
-    "url": "assets/js/8.1492ad7f.js",
-    "revision": "f8c9664a9aa140955a909181f2b40f2f"
+    "url": "assets/js/8.3f774cac.js",
+    "revision": "421fba58307887b7d42a75614d6e18bc"
   },
   {
-    "url": "assets/js/9.7d407495.js",
-    "revision": "b47cb7881653ad97b3b464fb5bc3ae22"
+    "url": "assets/js/9.77cc366c.js",
+    "revision": "a1f6e6d0c3affc678cd223c8327e0a1b"
   },
   {
-    "url": "assets/js/app.73b41e2a.js",
-    "revision": "7dc617fc390337d7287647da88fa10c3"
+    "url": "assets/js/app.da4ed456.js",
+    "revision": "f9526d51131ef55ce70e84562e108901"
   },
   {
     "url": "assets/js/zooming.js",
@@ -247,7 +251,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "5e59572d2eeb06c53d813792e7f92558"
+    "revision": "ea131e4f8b596be4a81b974a873be2d3"
   },
   {
     "url": "logo.png",
@@ -255,19 +259,23 @@ self.__precacheManifest = [
   },
   {
     "url": "member.html",
-    "revision": "fa165d19607eb6b1970a3dc7cad0434b"
+    "revision": "f315ef37ac3d6c6a9780e452c0cc85f2"
   },
   {
     "url": "report.html",
-    "revision": "53f06062e4f9ecf1af01e25cc79be174"
+    "revision": "839649567e691f4336f92317f8288293"
+  },
+  {
+    "url": "tex_lua.html",
+    "revision": "f801280cfe023dbabf4d65c1c38ba3b4"
   },
   {
     "url": "tex.html",
-    "revision": "73390b283d1b1d723e29d8262032b145"
+    "revision": "c14cf2335f2dd199cd0ca2eb06bd504b"
   },
   {
     "url": "works.html",
-    "revision": "13aff629c7c3fcb41235e69a7a7a67ca"
+    "revision": "2c60c7e92ce6e0adf15b7a5ba7554233"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
