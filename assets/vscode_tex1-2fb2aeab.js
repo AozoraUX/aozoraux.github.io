@@ -1,0 +1,1 @@
+const s="/assets/img/teximages/vscode_nihongoka.png",t="/assets/img/teximages/tex_workshop.png",e="/assets/img/teximages/vscode_setting_json.png",i="/assets/img/teximages/vscode_shinrai1.png",o="/assets/img/teximages/vscode_shinrai2.png",a="/assets/img/teximages/vscode_tex1.png";export{s as _,t as a,e as b,i as c,o as d,a as e};
