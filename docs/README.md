@@ -27,11 +27,11 @@ head:
 
 ![現象デザイン研究室](/assets/img/images/1.png "現象デザイン研究室")
 <div style="text-align:center">
-<p>こちらは香川大学創造工学部 造形・メディアデザインコース 現象デザイン研究室(Perceptive Intelligence Phenomena Design Laboratory, P!P Design Lab., ピップデザインラボ)(旧称:北村研, AozoraUxLab., 青空UX研)の公式サイトです．</p>
+<p>こちらは香川大学創造工学部 造形・メディアデザインコース 現象デザイン研究室(Perceptive Intelligence Phenomena Design Laboratory, P!P Design Lab., ピップデザインラボ)(北村尊義研究室)の公式サイトです．</p>
 </div>
 
 <div style="text-align:center;">
-  <a class="vp-hero-action-button" href="/works.html">研究室の活動を知る →</a>
+  <a class="vp-hero-action-button" href="/report.html">研究室の活動を知る →</a>
 </div>
 
 :::tip
@@ -42,6 +42,8 @@ head:
 
 
 ## 更新情報
+* 2026-10-21 　[Report](report.html "")を少し更新しました
+* 2026-10-20 　[Report](report.html "")を少し更新しました
 * 2026-10-20 　[Works](works.html "")を更新しました
 * 2026-10-20 　[Member](member.html "")を更新しました
 * 2026-10-20 　サイトを復旧しました
