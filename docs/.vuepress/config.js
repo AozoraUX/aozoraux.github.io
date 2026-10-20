@@ -53,8 +53,10 @@ export default defineUserConfig({
     }),
     sitemapPlugin({ hostname: 'https://aozoraux.github.io' }),
     pwaPlugin({
-      // 旧サイトの Service Worker を確実に置き換えるため、更新があれば通知する
-      update: 'hint',
+      // 新しい版を公開したら、閲覧中のブラウザでも自動で最新に切り替える
+      // （'hint' だと新しい Service Worker が待機したままになり、古い内容が表示され続ける）
+      update: 'force',
+      generateSWConfig: { skipWaiting: true },
       cacheHTML: true,
       themeColor: '#3e8baf',
       favicon: '/images/favicon.ico',
