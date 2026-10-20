@@ -1,24 +1,25 @@
 {
   "name": "aozorauxlab",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "For AozoraUxLab web site",
-  "main": "index.js",
   "author": "kitamura.takayoshi@kagawa-u.ac.jp",
   "license": "MIT",
-  "private": null,
-  "devDependencies": {
-    "@vuepress/plugin-container": "^2.0.0-beta.67",
-    "@vuepress/plugin-google-analytics": "^2.0.0-beta.67",
-    "@vuepress/plugin-pwa": "^2.0.0-beta.67",
-    "@vuepress/plugin-pwa-popup": "^2.0.0-beta.67",
-    "@vuepress/plugin-search": "^2.0.0-beta.67",
-    "vuepress": "^2.0.0-beta.67"
-  },
+  "private": true,
+  "type": "module",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "dependencies": {
-    "vuepress-plugin-sitemap2": "^2.0.0-beta.237"
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.31",
+    "@vuepress/plugin-google-analytics": "2.0.0-rc.135",
+    "@vuepress/plugin-markdown-container": "2.0.0-rc.137",
+    "@vuepress/plugin-pwa": "2.0.0-rc.137",
+    "@vuepress/plugin-search": "2.0.0-rc.137",
+    "@vuepress/plugin-sitemap": "2.0.0-rc.137",
+    "@vuepress/theme-default": "2.0.0-rc.137",
+    "sass-embedded": "^1.105.0",
+    "vue": "^3.5.40",
+    "vuepress": "2.0.0-rc.31"
   }
 }

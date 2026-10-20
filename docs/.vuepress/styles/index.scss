@@ -1,0 +1,41 @@
+// 旧サイトの配色（ブランドカラー #3e8baf）を再現
+:root {
+  --vp-c-accent: #2f7aa0;
+  --vp-c-accent-bg: #3e8baf;
+  --vp-c-accent-hover: #4fc4c6;
+  --vp-c-accent-soft: rgba(62, 139, 175, 0.14);
+}
+
+html[data-theme='dark'] {
+  --vp-c-accent: #4fc4c6;
+  --vp-c-accent-bg: #3e8baf;
+  --vp-c-accent-hover: #4fc4c6;
+  --vp-c-accent-soft: rgba(79, 196, 198, 0.16);
+}
+
+// TIP ボックスもブランドカラーに合わせる
+.hint-container.tip {
+  --hint-c-accent: var(--vp-c-accent-bg);
+  --hint-c-title: var(--vp-c-accent);
+  --hint-c-soft: var(--vp-c-accent-soft);
+}
+
+// 本文リンクの下線は旧サイトに合わせて表示しない
+[vp-content] a:not(.header-anchor) {
+  text-decoration: none;
+}
+
+// 蛍光ペン風マーカー（VuePress 1 時代のスタイルを復元）
+.marker_yellow_hoso {
+  background: linear-gradient(transparent 60%, #ff6 0);
+}
+
+html[data-theme='dark'] .marker_yellow_hoso {
+  background: linear-gradient(transparent 60%, rgba(255, 255, 102, 0.35) 0);
+}
+
+
+// 太字の和文フォントが無い環境でも見出し・強調が太く表示されるようにする
+body {
+  font-synthesis: weight style;
+}
