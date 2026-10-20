@@ -26,12 +26,56 @@ next: ./report
 
 
 ### 担当科目
-認知科学，UX概論，対人コミュニケーション，ロジカル思考演習，文化と情報メディアⅡ，デザインの潮流，プロブレムベースドラーニング，プロトタイプ演習，フィールドワーキング，造形メディアデザインプロジェクトベースドラーニング，コミュニケーションデザイン演習Ⅰ，卒業研究，卒業制作など
+認知科学，UX概論，対人コミュニケーション，ロジカル思考演習，企画・プロデュース論（文化と情報メディアⅡ），デザインの潮流，プロブレムベースドラーニング，プロトタイプ演習，フィールドワーキング，造形メディアデザインプロジェクトベースドラーニング，コミュニケーションデザイン演習Ⅰ，卒業研究，卒業制作など
 
 ### メールアドレス
 `kitamura.takayoshi［★］kagawa-u.ac.jp`
 
 ※［★］を@に置き換えてください。
+
+## 2026年度学生
+### M2
+* 高橋 怜生（Takahashi, Reo）
+* 田中 悠丸（Tanaka, Yumaru）
+* 丸岡 宙央（Maruoka, Sora）
+
+### M1
+
+### 2026年度研究生
+* 中島 聖貴（Nakashima, Seiki）
+
+### B4
+* 大島 郁織（Oshima, iori）
+* 對馬 寛乃（Tsushima, Hirono）
+* 横田 沙羅（Yokota, Sara）
+* 大野 真誇（Ono, Shingo）(林研究室, 共同指導)
+
+### B3
+* 梶山 紘太郎（Kajiyama, Kotaro）
+* 近藤 美都（Kondo, Mito）
+* 庄司 昊平（Shoji, Kohei）
+* 山崎 樹乃（Yamasaki, Kino）
+
+## 2025年度学生
+### M2
+* 豊平 昌伸（Toyohira, Masanobu）
+* 新田 宗史（Nitta, Soshi）
+
+### M1
+* 高橋 怜生（Takahashi, Reo）
+* 田中 悠丸（Tanaka, Yumaru）
+* 丸岡 宙央（Maruoka, Sora）
+
+### B4
+* 上原 睦（Uehara, Mutsumi）
+* 小西 亜衣子（Konishi, Aiko）
+* 田中 希和（Tanaka, Kiwa）
+
+### B3
+* 大島 郁織（Oshima, iori）
+* 對馬 寛乃（Tsushima, Hirono）
+* 横田 沙羅（Yokota, Sara）
+
 
 ## 2024年度学生
 ### M2

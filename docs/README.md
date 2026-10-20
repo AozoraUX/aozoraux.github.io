@@ -35,16 +35,16 @@ head:
 </div>
 
 :::tip
-* [ヒューマンインタフェース学会コラボレーション基盤専門研究委員会](https://jp.his.gr.jp/siglist/sigcoaster/)からコミュニケーション支援研究賞をいただきました
-* [HAIシンポジウム2024](https://hai-conference.net/symp2024/awards.php)にて最優秀ポスター発表賞を受賞しました
-* [オージス総研グループのエンジニアによる技術発表サイト，オブジェクトの広場](https://www.ogis-ri.co.jp/otc/hiroba/Report/osca/2023interview/)で学生や研究室について取り上げていただきました
-* [HCGシンポジウム2023](https://www.hcg-ieice.org/hcg-symposium/2023/)にて優秀インタラクティブ発表賞を受賞しました
-* [2023 OGIS-RI Software Challenge Award 「寝かせて使うソフトウェアコンテスト」](https://www.ogis-ri.co.jp/otc/contest/osca2023/)にて北村助言の学生ら2チームが最優秀賞とそれに次ぐゲスト審査員賞を受賞しました
+
+* [異能Vationジェネレーションアワード2026](https://inno-vation.jp/nominate/2025/)にノミネートされました
+* [JAXA 航空イノベーションチャレンジ 2026](https://www.aero.jaxa.jp/public-invitation/challenge/spsite/guideline_2026.html)に採択されました
 * 書籍[事例で学ぶ 人を扱う工学研究の倫理　その研究、大丈夫？](https://www.kindaikagaku.co.jp/book_list/detail/9784764960480/)を出版していただきました
 :::
 
 
 ## 更新情報
+* 2026-10-20 　[Member](member.html "")を更新しました
+* 2026-10-20 　サイトを復旧しました
 * 2024-09-13 　[Works](works.html "")を更新しました
 * 2024-08-05 　[Member](member.html "")を更新しました
 * 2024-05-15 　[Works](works.html "")と[Report](report.html "")を更新しました
