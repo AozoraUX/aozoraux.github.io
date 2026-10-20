@@ -25,7 +25,8 @@ researchmap_hide: [55234023]
 - [第10回ヒューマンメディア合同研究会](https://sites.google.com/view/hmedia-ws/hmedia2026)優秀賞（大学院生の部）: 丸岡宙央, 2026年8月31日．
 - [第10回ヒューマンメディア合同研究会](https://sites.google.com/view/hmedia-ws/hmedia2026)優秀賞（学部生の部）: 對馬寛乃, 2026年8月31日．
 - [第10回ヒューマンメディア合同研究会](https://sites.google.com/view/hmedia-ws/hmedia2026)学生賞: 横田沙羅, 2026年8月31日．
-- [異能vation 2025年度「ジェネレーションアワード」部門](https://inno-vation.jp/nominate/2025/)ノミネート, 2026年3月．
+- [異能vation 2025年度「ジェネレーションアワード」部門](https://inno-vation.jp/nominate/2025/)ノミネート: 丸岡宙央，北村尊義, 2026年3月．
+- [異能vation 2025年度「ジェネレーションアワード」部門](https://inno-vation.jp/nominate/2025/)ノミネート: 新田 宗史, 横田 一晟, 奥野 唯織, 2026年3月．
 
 ### 査読付き国際会議
 - Sora Maruoka, Masanobu Toyohira, Takayoshi Kitamura: How Can Children's Handmade Humanoid Figures Come to Life in the Digital World?, Proceedings of the Twentieth International Conference on Tangible, Embedded, and Embodied Interaction (TEI 2026), pp.1-6 (2026).
