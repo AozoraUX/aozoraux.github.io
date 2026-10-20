@@ -1,9 +1,13 @@
 name: Deploy site
 
 # master ブランチに push すると、VuePress でビルドして main ブランチ（GitHub Pages の公開元）へ反映します
+# 週1回の定期実行では researchmap の最新の登録内容を取り込みます
 on:
   push:
     branches: [master]
+  # researchmap の更新を取り込むため、毎週月曜 6:00（日本時間）にも自動でビルドします
+  schedule:
+    - cron: '0 21 * * 0'
   workflow_dispatch:
 
 permissions:
@@ -28,6 +32,7 @@ jobs:
 
       - run: npm ci
 
+      # researchmap から最新の業績を取得してからビルド（取得に失敗しても保存済みデータでビルドします）
       - run: npm run docs:build
 
       - uses: peaceiris/actions-gh-pages@v4

@@ -8,7 +8,8 @@
   "type": "module",
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "node scripts/fetch-researchmap.mjs && vuepress build docs",
+    "researchmap": "node scripts/fetch-researchmap.mjs"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.31",

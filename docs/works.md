@@ -2,7 +2,16 @@
 title: 成果
 prev: ./report
 next: ./access
+# researchmap（https://researchmap.jp/tktmr）から自動で取り込む設定
+researchmap_since: 2021-02
+# 載せたくない researchmap の項目ID（55234023: パナソニックとのコンサルティング契約）
+researchmap_hide: [55234023]
 ---
+<!--
+  このページは researchmap に登録した実績を自動で載せ、下に手書きした実績と合わせて表示します。
+  researchmap に無いもの（学生の受賞、卒業論文・修士論文など）だけをここに書けば十分です。
+  同じ実績が両方にある場合は、ここに手書きしたほうが表示されます。
+-->
 <img src="/assets/img/images/2.jpg" height="300" alt="OnionWatch2020"/>
 
 # 成果

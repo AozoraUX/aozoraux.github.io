@@ -6,6 +6,8 @@ import { searchPlugin } from '@vuepress/plugin-search'
 import { sitemapPlugin } from '@vuepress/plugin-sitemap'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
+import { reportPlugin } from './plugins/report.js'
+import { worksPlugin } from './plugins/works.js'
 
 export default defineUserConfig({
   lang: 'ja-JP',
@@ -36,6 +38,8 @@ export default defineUserConfig({
   }),
 
   plugins: [
+    reportPlugin(),
+    worksPlugin(),
     // 活動報告ページの「::: theorem 掲載日時:YYYY-MM-DD」ブロック
     markdownContainerPlugin({
       type: 'theorem',
