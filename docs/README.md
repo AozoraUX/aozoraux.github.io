@@ -31,7 +31,7 @@ head:
 </div>
 
 <div style="text-align:center;">
-  <a class="vp-hero-action-button" href="/report.html">研究室の活動を知る →</a>
+  <a class="vp-hero-action-button" href="/works.html">研究室の活動を知る →</a>
 </div>
 
 :::tip
