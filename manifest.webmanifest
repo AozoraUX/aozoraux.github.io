@@ -1,9 +1,1 @@
-{
-    "name": "青空UX研究室（北村研究室）|香川大学創造工学部 造形・メディアデザインコース",
-    "short_name": "AozoraUxLab.",
-    "description": "香川大学創造工学部 造形・メディアデザインコース北村研究室の公式サイトです",
-    "start_url": "/index.html",
-    "display": "standalone",
-    "background_color": "#fff",
-    "theme_color": "#3e8baf"
-}
+{"name":"現象デザイン研究室 | 香川大学創造工学部 造形・メディアデザインコース","short_name":"P!P Design Lab.","description":"香川大学創造工学部造形・メディアデザインコース 現象デザイン研究室の公式サイトです","lang":"ja-JP","start_url":"/","scope":"/","display":"standalone","theme_color":"#3e8baf","background_color":"#ffffff","orientation":"portrait-primary","prefer_related_applications":false,"icons":[{"src":"/logo.png","sizes":"127x127","type":"image/png"}]}

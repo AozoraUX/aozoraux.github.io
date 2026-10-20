@@ -1,0 +1,1 @@
+var e=`/assets/img/teximages/vscode_nihongoka.png`,t=`/assets/img/teximages/tex_workshop.png`,n=`/assets/img/teximages/vscode_setting_json.png`,r=`/assets/img/teximages/vscode_shinrai1.png`,i=`/assets/img/teximages/vscode_shinrai2.png`,a=`/assets/img/teximages/vscode_tex1.png`;export{t as a,n as i,i as n,e as o,r,a as t};
