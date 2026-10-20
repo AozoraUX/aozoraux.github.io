@@ -5,7 +5,7 @@ home: true
 heroText: null
 tagline: null
 # heroImage: assets/img/images/1.png
-footer: MIT Licensed | Copyright © 2024 Takayoshi Kitamura, Kagawa University.
+footer: MIT Licensed | Copyright © 2026 Takayoshi Kitamura, Kagawa University.
 next: ./about
 head:
   - - meta
@@ -35,14 +35,14 @@ head:
 </div>
 
 :::tip
-
-* [異能Vationジェネレーションアワード2026](https://inno-vation.jp/nominate/2025/)にノミネートされました
 * [JAXA 航空イノベーションチャレンジ 2026](https://www.aero.jaxa.jp/public-invitation/challenge/spsite/guideline_2026.html)に採択されました
+* [2025年度異能Vationジェネレーションアワード](https://inno-vation.jp/nominate/2025/)に2件ノミネートされました
 * 書籍[事例で学ぶ 人を扱う工学研究の倫理　その研究、大丈夫？](https://www.kindaikagaku.co.jp/book_list/detail/9784764960480/)を出版していただきました
 :::
 
 
 ## 更新情報
+* 2026-10-20 　[Works](works.html "")を更新しました
 * 2026-10-20 　[Member](member.html "")を更新しました
 * 2026-10-20 　サイトを復旧しました
 * 2024-09-13 　[Works](works.html "")を更新しました

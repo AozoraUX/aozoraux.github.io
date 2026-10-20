@@ -10,6 +10,78 @@ next: ./access
 北村の2021年1月までの成果は[researchmap](https://researchmap.jp/tktmr "北村のresearchmap")をご覧ください．
 
 [[toc]]
+## 2026年
+### 受賞
+- [異能vation 2025年度「ジェネレーションアワード」部門](https://inno-vation.jp/nominate/2025/)ノミネート, 2026年3月．
+
+### 査読付き国際会議
+- Sora Maruoka, Masanobu Toyohira, Takayoshi Kitamura: How Can Children's Handmade Humanoid Figures Come to Life in the Digital World?, Proceedings of the Twentieth International Conference on Tangible, Embedded, and Embodied Interaction (TEI 2026), pp.1-6 (2026).
+- Miwako Kitamura, Kazuki Tokuda, Kenzen Takeuchi, Takayoshi Kitamura: Audience-Aware Color Map Evaluation for Astronomical Visualization of a Star-Forming Region, Proceedings of ISASE 2026, pp.1-4 (2026).
+- Masanobu Toyohira, Takayoshi Kitamura: Optimal User Control Elements When Encountering Errors in Self-Checkout Scenario, Proceedings of ISASE 2026, pp.1-4 (2026).
+
+### 国内研究会
+- 丸岡 宙央，竹内 謙善，徳田 一起，北村 美和子，北村 尊義: リラックスのためのインタラクティブなデジタルアクアリウムの評価に向けた予備的検討, ヒューマンインタフェースシンポジウム2026, pp.304-311 (2026/09, 岡山市).
+- 大野 真誇，大島 郁織，對馬 寛乃，横田 沙羅，早川 翔大，丸岡 宙央，高橋 怜生，北村 尊義: こどもの制作物が有する誘目性を活用した歩行誘導手法の提案, ヒューマンインタフェースシンポジウム2026, pp.1395-1400 (2026/09, 岡山市).
+- 新田 宗史，徳田 一起，北村 美和子，竹内 謙善，北村 尊義: ミリ波レーダーを用いた電波観測疑似体験教材の開発, 日本天文学会2026年春季年会 (2026).
+
+### 作品
+- キッズスペースにおけるフィジブル性目指したインタラクティブゲーム, はなまるうどんTKMT本店 (2026)．企画・制作・設置: 北村尊義
+- パラベル -Parabell-, ぐんだらけ×引田ひなまつり2026 アートプログラム 作品展「ヒナホドキ」(2026)．馬場悠輔, 北村尊義（UXリサーチ）, 柴田悠基
+
+### 卒業論文
+- 上原 睦: 制約条件のある作品づくりで表現したいポイント導出手法の提案と導入評価
+- 小西 亜衣子: 日記執筆支援のための古文利用の提案
+- 田中 希和: 着信履歴を残さない通話アプリ「ChiCoT」の提案
+
+### 修士論文
+- 豊平 昌伸: 小売店での無人会計シーンにおける制御感を損なわない情報提示要素の検討
+- 新田 宗史: 電波天文学への直感的な理解を促す演習教材
+
+### 講演・社会活動
+- 北村尊義: 事例で学ぶ人を扱う工学研究の倫理 その研究、大丈夫？(パート4), ヒューマンインタフェースシンポジウム2026 講習会講師 (2026/09)
+- かがわけん科学技術フェスティバル 実行委員 (2026/08-11)
+
+### 外部資金採択・継続
+- [JAXA 航空イノベーションチャレンジ 2026](https://www.aero.jaxa.jp/public-invitation/challenge/spsite/guideline_2026.html) 北村尊義(代表) 2026年9月 -
+- [インタラクティブアートをもちいた避難誘導サイネージのアフォーダンス設計要件](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K17807/)日本学術振興会 科学研究費助成事業 若手研究 北村尊義(代表) 2025年4月 - 2028年3月
+
+
+
+## 2025年
+### 査読付き原著論文
+- 勝又 暢久，山中 隆史，北村 尊義，竹内 謙善，李 セロン: 心理的安全性が高い教員組織づくりと複数同時開講クラス運営の試み―専門が異なる教員チームでも達成できたこと―, 初年次教育学会誌, Vol.17, No.1, pp.78-86 (2025).
+- 竹内 謙善，山中 隆史，勝又 暢久，北村 尊義，李 セロン: 学生の深い学びを生みだす挙手と発言を促すタブレットシステムの開発, 香川大学教育研究, Vol.22, pp.173-183 (2025).
+
+### 査読付き国際会議
+- Reo Takahashi, Miwako Kitamura, Takashi Yamanaka, Saerom Lee, Takayoshi Kitamura: Design and Evaluation of a Conversational Agent for Promoting Gratitude Expression, Proceedings of ISIS2025, pp.245-250 (2025).
+- Yumaru Tanaka, Takayoshi Kitamura: How Does Being Predicted a Few Selfies a Few Minutes Ahead Affect Your Sightseeing Behavior?, Lecture Notes in Computer Science, Springer, pp.118-134 (2025).
+
+### 国内研究会
+- 丸岡 宙央，北村 尊義: MASによるセルフうどん店でのラウンドアバウト歩行ルール導入評価, 第39回人工知能学会全国大会, 3J5-GS-5-02 (2025/05, 大阪市).
+
+### 卒業論文
+- 田中 悠丸: デジタルツインによる数分先の予言が観光者のふるまいに及ぼす影響
+- 山本 拓弥: 予兆に着目した新たな通話着信通知の提案と評価
+- 高橋 怜生: 感謝の発話表出を促進する音声会話エージェントのデザイン検討
+- 丸岡 宙央: セルフうどん店内における混雑緩和のためのラウンドアバウト導入検討
+- 平田 智望: パラレルワールドの自分との交流によるモチベーション支援
+
+### 修士論文
+- 山本 真椰: 生成AIチャットボットによるテキストカウンセリングのためのデザイン要件
+
+### 講演・社会活動
+- 北村尊義: 事例で学ぶ人を扱う工学研究の倫理 その研究、大丈夫？(パート3), ヒューマンインタフェースシンポジウム2025 講習会講師 (2025/09)
+- 北村尊義: スマホのカメラで始める認知科学, 三豊市・香川大学地域人材共創センター サテライトセミナー (2025/09)
+- 善通寺第一高等学校 令和7年度 2年 探究テーマ発表会 オブザーバー (2025/06)
+
+### 外部資金採択・継続
+- 公益財団法人 南海育英会 南海育英会助成金 北村尊義(代表) 2025年4月 - 2026年3月
+- [インタラクティブアートをもちいた避難誘導サイネージのアフォーダンス設計要件](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K17807/)日本学術振興会 科学研究費助成事業 若手研究 北村尊義(代表) 2025年4月 - 2028年3月
+- [プロテウス効果による内発的な肌の潤い向上･保持支援システムの検討](https://www.kose-cosmetology.or.jp/ "公益財団法人 コーセーコスメトロジー研究財団  2023年度研究助成")公益財団法人 コーセーコスメトロジー研究財団  2023年度研究助成  北村尊義(代表), 福森聡,  2023年12月 - 2025年3月
+- [歯科診療における患者の主体的な治療参加意欲を引き出すためのデザイン研究](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K12701/)，日本学術振興会 科学研究費助成事業 基盤研究（C）柳文修(代表), 杉原太郎, 北村尊義 2022年4月 - 2025年3月
+
+
+
 ## 2024年
 ### 受賞
 - [KEER2024(The 2024 International Conference on Kansei Engineering and Emotion Research)](https://www.keer.org/keer2024/)Best Conference Award: Maya Yamamoto, Takayoshi Kitamura, 2024年11月22日
@@ -24,10 +96,11 @@ next: ./access
 - [異能vation 2023年度「ジェネレーションアワード」部門](https://www.inno.go.jp/result/2023/generation/nominate/)ノミネート: 高橋怜生, 吉森日菜, 2024年3月2日．
 
 ### 査読付き国際会議
-- Comming Soon!
-- Comming Soon!
+- Maya Yamamoto, Takayoshi Kitamura: An Attempt to Create a Counseling Bot Using Generative AI Inspired by the Trajectory Equifinality Model, The 2024 International Conference on Kansei Engineering and Emotion Research (KEER 2024), pp.582-591 (2024/11).
+- Masanobu Toyohira, Takayoshi Kitamura: Can BIAISO (Non-Sociability Assessment Factors) Be Useful as a New UX Design Perspective to Reduce Dissatisfaction with Unattended Service Systems?, The 2024 International Conference on Kansei Engineering and Emotion Research (KEER 2024), pp.222-230 (2024/11).
 
 ### 国内研究会
+- 廣瀬 健司，青柳 西蔵，福森 聡，北村 尊義，川端 康弘: 場所への自己関連づけにおける視空間イメージの影響, 日本イメージ心理学会第25回大会 (2024/12, 東京都).
 - 三輪 遥香，○新田 宗史，北村 尊義:外向的な人が緊張の鎮静のためにテンポの速い音楽聴取を好む知見への生理指標による検証, 第211回ヒューマンインタフェース学会研究会「コミュニケーション支援および一般（SIG-COASTER-1）｣, ヒューマンインタフェース学会研究報告集, Vol.26, No.4, pp.217-222 (2024年5月14日，沖縄産業支援センター)
 - ○間瀨 朱璃，荒川 雅生，福森 聡，北村 尊義:肌状態の改善に向けた自己アバター観察システムの追試, 2PA-17, 第19回感性工学会春季大会(2024年3月7-8日，九州大学大橋キャンパス)
 - ○豊平 昌伸，北村 尊義:人工物デザインの無愛想感をあえて高めるための要素の抽出検討, 2PA-12, 第19回感性工学会春季大会(2024年3月7-8日，九州大学大橋キャンパス)
@@ -51,6 +124,9 @@ next: ./access
 ### 修士論文
 - 大西 晴子: 他者を応援したいモチベーションを自己のモチベーションに転用するための条件についての研究
 - 間瀨 朱璃: 肌に内発的な潤いをもたらすアバター観察システムの検討
+
+### 講演・社会活動
+- 北村尊義: 事例で学ぶ人を扱う工学研究の倫理 その研究、大丈夫？(パート2), ヒューマンインタフェースシンポジウム2024 講習会講師 (2024/09)
 
 ### 外部資金採択・継続
 - [プロテウス効果による内発的な肌の潤い向上･保持支援システムの検討](https://www.kose-cosmetology.or.jp/ "公益財団法人 コーセーコスメトロジー研究財団  2023年度研究助成")公益財団法人 コーセーコスメトロジー研究財団  2023年度研究助成  北村尊義(代表), 福森聡,  2023年12月 - 2025年3月
