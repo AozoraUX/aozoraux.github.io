@@ -39,3 +39,9 @@ html[data-theme='dark'] .marker_yellow_hoso {
 body {
   font-synthesis: weight style;
 }
+
+// トップページのタイトルバナーの角を Tips の枠と同じように丸くする
+.vp-home [vp-content] img[src$='/images/1.png'] {
+  display: block;
+  border-radius: 0.5em;
+}
