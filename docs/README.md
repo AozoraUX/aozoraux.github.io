@@ -27,7 +27,7 @@ head:
 
 ![現象デザイン研究室](/assets/img/images/1.png "現象デザイン研究室")
 <div style="text-align:center">
-<p>こちらは香川大学創造工学部 造形・メディアデザインコース 現象デザイン研究室(Perceptive Intelligence Phenomena Design Laboratory, P!P Design Lab., 北村尊義研究室)の公式サイトです．</p>
+<p>こちらは香川大学創造工学部 造形・メディアデザインコース 現象デザイン研究室（Perceptive Intelligence Phenomena Design Laboratory, P!P Design Lab., 北村尊義研究室）の公式サイトです．</p>
 </div>
 
 <div style="text-align:center;">
@@ -37,7 +37,7 @@ head:
 ::: tip Tips
 * [JAXA 航空イノベーションチャレンジ 2026](https://www.aero.jaxa.jp/public-invitation/challenge/spsite/guideline_2026.html)に採択されました
 * [2025年度異能Vationジェネレーションアワード](https://inno-vation.jp/nominate/2025/)に2件ノミネートされました
-* 書籍[事例で学ぶ 人を扱う工学研究の倫理　その研究、大丈夫？](https://www.kindaikagaku.co.jp/book_list/detail/9784764960480/)を出版していただきました
+* 書籍[事例で学ぶ 人を扱う工学研究の倫理　その研究、大丈夫？](https://www.kindaikagaku.co.jp/book_list/detail/9784764960480/)絶賛発売中！
 :::
 
 
