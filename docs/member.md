@@ -41,7 +41,7 @@ next: ./report
 
 ### M1
 
-### 2026年度研究生
+### 研究生
 * 中島 聖貴（Nakashima, Seiki）
 
 ### B4
