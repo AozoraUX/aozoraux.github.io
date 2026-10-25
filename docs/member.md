@@ -45,7 +45,7 @@ next: ./report
 * 中島 聖貴（Nakashima, Seiki）
 
 ### B4
-* 大島 郁織（Oshima, iori）
+* 大島 郁織（Oshima, Iori）
 * 對馬 寛乃（Tsushima, Hirono）
 * 横田 沙羅（Yokota, Sara）
 * 大野 真誇（Ono, Shingo）(林研究室, 共同指導)
@@ -72,7 +72,7 @@ next: ./report
 * 田中 希和（Tanaka, Kiwa）
 
 ### B3
-* 大島 郁織（Oshima, iori）
+* 大島 郁織（Oshima, Iori）
 * 對馬 寛乃（Tsushima, Hirono）
 * 横田 沙羅（Yokota, Sara）
 
