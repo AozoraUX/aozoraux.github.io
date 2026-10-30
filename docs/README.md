@@ -44,6 +44,7 @@ head:
 ## 更新情報
 <MoreList>
 
+* 2026-10-30 　[Works](works.html "")と[Report](report.html "")を更新しました
 * 2026-10-21 　[Report](report.html "")を少し更新しました
 * 2026-10-20 　[Report](report.html "")を少し更新しました
 * 2026-10-20 　[Works](works.html "")を更新しました
