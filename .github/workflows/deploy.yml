@@ -17,15 +17,16 @@ concurrency:
   group: deploy
   cancel-in-progress: true
 
+# 外部のアクションは改ざん対策のためコミットのハッシュで固定しています（# の後ろが対応するバージョン）
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 0 # 「最終更新」日時を git 履歴から取得するため
 
-      - uses: actions/setup-node@v7
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
           node-version: 22
           cache: npm
@@ -35,7 +36,7 @@ jobs:
       # researchmap から最新の業績を取得してからビルド（取得に失敗しても保存済みデータでビルドします）
       - run: npm run docs:build
 
-      - uses: peaceiris/actions-gh-pages@v4
+      - uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4.1.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: main
