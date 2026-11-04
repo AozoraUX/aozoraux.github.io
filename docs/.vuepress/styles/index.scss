@@ -45,3 +45,13 @@ body {
   display: block;
   border-radius: 0.5em;
 }
+
+// 活動報告に載せる動画（縦長の動画でも画面からはみ出さないようにする）
+.report-video {
+  display: block;
+  max-width: 100%;
+  max-height: 80vh;
+  margin: 1rem auto;
+  border-radius: 0.5em;
+  background: #000;
+}
