@@ -37,6 +37,14 @@ export const reportPlugin = () => ({
       fm.next ??= newer ? { text: newer.title, link: newer.path } : false
     })
 
+    // 一覧ページ（report.md）の「最終更新」を、記事の中で最も新しい更新日時に合わせる
+    // （report.md 自体はほとんど変更されないため、そのままだと日時が古いままになる）
+    const listPage = app.pages.find((p) => p.filePathRelative === 'report.md')
+    const latest = Math.max(0, ...posts.map((p) => p.data.git?.updatedTime || 0))
+    if (listPage?.data.git && latest > (listPage.data.git.updatedTime || 0)) {
+      listPage.data.git.updatedTime = latest
+    }
+
     const list = posts.map((p) => ({
       path: p.path,
       title: p.title,
