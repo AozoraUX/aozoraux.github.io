@@ -11,7 +11,7 @@ description: カメラで後ろ姿をセンシングして操作するインタ�
 
 **一次審査締切：2026年11月29日（日）23:59**
 
-[エントリーフォームへ](/contest-entry.html)
+[エントリーフォームへ](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3nVDIlCDKEiNt7Yd_XlR6hMvcgugy8BNv2uqnjzXh1FUNDA1U01FRE82VFBWWktWM0lHWThCR1hZNi4u)
 
 主催：香川大学創造工学部 造形・メディアデザインコース 現象デザイン研究室（北村研究室）
 
@@ -98,7 +98,7 @@ description: カメラで後ろ姿をセンシングして操作するインタ�
 
 ## 応募方法・注意事項
 
-**応募方法**：[エントリーフォーム（Microsoft Forms）](/contest-entry.html)に香川大学のMicrosoftアカウントでサインインし、必要事項を入力して絵コンテを添付のうえ送信してください。作品ごとに1回送信します。締切後の応募・差し替えは受け付けません。
+**応募方法**：[エントリーフォーム（Microsoft Forms）](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3nVDIlCDKEiNt7Yd_XlR6hMvcgugy8BNv2uqnjzXh1FUNDA1U01FRE82VFBWWktWM0lHWThCR1hZNi4u)に香川大学のMicrosoftアカウントでサインインし、必要事項を入力して絵コンテを添付のうえ送信してください。作品ごとに1回送信します。締切後の応募・差し替えは受け付けません。
 
 同じ作品を投稿し直す場合は、フォームの「今回の応募はどちらですか」で「応募済みの作品の投稿し直し」を選び、旧エントリーの作品名を書いて送信してください。旧エントリーは主催者が削除し（元に戻せません）、新しいエントリーだけを審査の対象にします。絵コンテも新しいエントリーに添付し直してください。
 
